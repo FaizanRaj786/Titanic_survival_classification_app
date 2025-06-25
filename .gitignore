@@ -1,0 +1,27 @@
+# Jupyter and Python cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Environment files
+.env
+venv/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode or PyCharm
+.vscode/
+.idea/
+
+# Model files (optional if not needed on GitHub)
+*.pkl
+*.h5
+
+# Streamlit logs
+.streamlit/
